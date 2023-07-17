@@ -16,6 +16,6 @@
 
 #
 
-<h5>Reach me in</h5> <br>
+<h5>Reach me at</h5> <br>
 <a href = "mailto:info.coraljimenez@gmail.com"><img src="https://img.shields.io/badge/Gmail-C6362C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/coral-jim%C3%A9nez-080795195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
