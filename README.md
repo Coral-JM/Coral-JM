@@ -1,7 +1,7 @@
 <h4 align="center">Hey! I'm Coral!</h4>
 
 <div align="center">I'm a dancer who, I don't know how, ended up being also a developer.</div><br>
-<div align="center">🍕powered by pizza 🖌️creative ninja 🔒infosec enthusiast 🤌meme taster 🚀Team builder</div>
+<div align="center">🍕powered by pizza 🖌️creative ninja 🔒infosec enthusiast 👌meme taster 🚀Team builder</div>
 
 #
 
